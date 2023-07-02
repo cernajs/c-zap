@@ -1,0 +1,13 @@
+C# započtový program - twitter clone
+
+Půjde o zjednodušenou verzi twitteru. Program bude fungovat jako zápočtový program pro 3 předměty. Pro NPRG064 - programování uživatelských rozhraní budu používat ASP.NET MVC. Pro předmět NPRG057 - pokročilý .NET II budu používat Entity framework pro práci s databází. Pro NPRG038 - pokročilý C# bude implementován zbytek. Rozhodně vužiji spoustu async/await a generiku. Jako příklad z použití generiky bych si představil generický interface, který bude např. uzpůsoben práci s databází. Jako příklad async/await bych si představil např. asynchroní fetchování tweetů z databáze.
+
+Očekávané minimalní featury:
+
+1. registrace
+2. tweetování a zobrazování příspěvků
+3. sledování a sledující
+4. možnost dávat like na příspěvek
+5. vyhledávání tweetu pomocí slova/hashtagu
+
+frontend plánuji udělat spíše jednodušší. Koukal jsem že React je dobrý pro práci s ASP, tedy asi šáhnu po něm.
